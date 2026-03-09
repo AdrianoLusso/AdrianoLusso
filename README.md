@@ -26,7 +26,7 @@ Previously, I worked as an AI/ML Engineer, where I developed artificial intellig
 
 For the past three years, I have also been involved in research in quantum computing, artificial intelligence, and combinatorial optimisation, with publications at international conferences such as QPL 2024 and Quantum Week 2024. In addition, I have been selected for multiple programmes and scholarships, including a grant from the Unitary Foundation to contribute to open-source quantum software projects, and a fully funded scholarship to attend KHIPU 2025.
 
-*📍 Neuquén, Argentina**  
+**📍 Neuquén, Argentina**  
 **💼 Software Developer @ Tecfield**  
 **🎓 BSc in Computer Science — Universidad Nacional del Comahue**  
 **🎓 Project Management Specialization — Universidad de Buenos Aires**
