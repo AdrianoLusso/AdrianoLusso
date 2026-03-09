@@ -4,11 +4,13 @@
 
 ### Software Engineer · Computer Scientist · AI & Quantum Computing & AI Researcher
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianolusso/?locale=en_US)
-
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=es&user=9kEse0MAAAAJ)
-
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4624-6477)
+
+</div>
 
 </div>
 
