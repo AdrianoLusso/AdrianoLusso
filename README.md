@@ -2,7 +2,7 @@
 
 # ⚛️ Adriano Lusso
 
-### Software Engineer · Computer Scientist · AI & Quantum Computing & AI Researcher
+### Software Engineer · Computer Scientist · Quantum Computing & AI Researcher
 
 <div align="center">
 
