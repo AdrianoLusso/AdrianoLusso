@@ -2,7 +2,7 @@
 
 # ⚛️ Adriano Lusso
 
-### Software Engineer · Computer Scientist · Quantum Computing & AI Researcher
+### Software Engineer & Tech Lea · Quantum Computing Researcher · Master’s Student in Project Management
 
 <div align="center">
 
@@ -18,15 +18,15 @@
 
 ## 👋 About me
 
-Hello! My name is Adriano, and I hold a Bachelor's degree in Computer Science from the Universidad Nacional del Comahue in Neuquén, Argentina. I am currently working as a Software Engineer at Tecfield, an engineering services company for the oil and gas industry. In this role, I am responsible for gathering and formalising requirements, as well as implementing, maintaining, and debugging features for the company’s internal management system and for clients in the sector, including Oilfield and Production Services S.R.L..
+I’m Adriano, a Computer Science graduate and Master’s student in Project Management.
 
-To complement my scientific and engineering background and further develop leadership skills, this year I began the Specialisation in Predictive and Adaptive Project Management at the Universidad de Buenos Aires.
+I work as a Software Engineer & Tech Lead at Tecfield, where I lead the development of solutions for the oil & gas industry, covering everything from requirements gathering to scalable architecture design and team coordination.
 
-Previously, I worked as an AI/ML Engineer, where I developed artificial intelligence agents and implemented the infrastructure required for their deployment and operation in production environments.
+In addition, I conduct research in quantum computing applied to industrial optimization problems, with publications in national and international conferences and participation in competitive programs and scholarships.
 
-For the past three years, I have also been involved in research in quantum computing, artificial intelligence, and combinatorial optimisation, with publications at international conferences such as QPL 2024 and Quantum Week 2024. In addition, I have been selected for multiple programmes and scholarships, including a grant from the Unitary Foundation to contribute to open-source quantum software projects, and a fully funded scholarship to attend KHIPU 2025.
+Previously, I worked as an AI/ML Engineer, developing and deploying artificial intelligence systems in production environments.
 
 **📍 Neuquén, Argentina**  
-**💼 Software Developer @ Tecfield**  
+**💼 Software Engineer & Tech Lead @ Tecfield**  
 **🎓 BSc in Computer Science — Universidad Nacional del Comahue**  
-**🎓 Project Management Specialization — Universidad de Buenos Aires**
+**🎓  Master’s Student in Project Management — Universidad de Buenos Aires**
